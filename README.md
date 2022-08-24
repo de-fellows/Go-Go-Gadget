@@ -1,5 +1,5 @@
 # Go-Go-Gadget
-Code repository for Go, Go, Gadget! Raspberry Pi Weather Stations for the Absolute Beginner.
+Code repository for _Go, Go, Gadget! Raspberry Pi Weather Stations for the Absolute Beginner._
 
 __Read the blog post [here](https://de-fellows.github.io/RexCoding/python/raspberry%20pi/matplotlib/graphing%20data/temperature%20and%20humidity/data%20sensors/dht11/dht20/grove%20base%20hat/flask/html/2022/06/18/Go-Go-Gadget.html).__
 
